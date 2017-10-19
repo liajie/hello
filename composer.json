@@ -1,0 +1,18 @@
+{
+    "name": "lenovojiejie/hello",
+    "description": "echo hello world",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "lenovojiejie",
+            "email": "lenovojiejie@lenovojiejie.info"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
